@@ -41,11 +41,11 @@ The game features various challenging environmental hazards, such as:
 ---
 
 ## 📸 Screenshots  
-**in-game footage :**
+**in-game Screenshots :**
 
-![GIF1](Assets/Screenshots/BubbleArenaDemo1.gif)
+![Ss1](Assets/Screenshots/1.png)
 
-![GIF2](Assets/Screenshots/BubbleArenaDemo2.gif)
+![Ss2](Assets/Screenshots/2.png)
 
 ---
 
